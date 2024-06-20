@@ -1,6 +1,6 @@
 import random
 import os
-import blackjackart
+import BJart
 
 card_dict = [2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10, 1]
 user_bank = 500
